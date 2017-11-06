@@ -4,6 +4,8 @@
 
 This is a application for building REST APIs in Node.js using ES6 and Express with Code Coverage and JWT Authentication. It's mainly built for MusicApi.
 
+You need to install mongoDb to able to run it. port is 4040.
+
 ### Features
 
 | Feature                                | Summary                                                                                                                                                                                                                                                     |
